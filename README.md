@@ -25,3 +25,8 @@ if __name__ == "__main__":
 ```
 # *My Github stats - going to get better soon*
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant-Sagar&theme=vue&show_icons=true)
+
+<!-- ## Connect with me on linkedin: -->
+<p align="left">
+<a href = "https://www.linkedin.com/in/nishant-sagar-8a4a2011a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
