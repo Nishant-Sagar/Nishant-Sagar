@@ -1,32 +1,31 @@
 ![](http://www.infragistics.com/community/cfs-filesystemfile.ashx/__key/CommunityServer.Blogs.Components.WeblogFiles/d-coding/2043.Bill-Gates.jpg)
 <!-- ![](https://cdn.quotesgram.com/img/60/29/809615381-punitionis8.jpg) -->
-### Hi there! 👋, I’m Nishant Sagar working as a Cloud Analyst at Oracle.
-<!-- - 👋 Hi, I’m Nishant Sagar pre-final year Electronics student presuing my engineering from DSCE Bangalore. -->
-- 👀 I’m a self taught programmer who is very much interested in data structure and algorithms, backend development and open source contributions.
-- 🌱 I’m currently learning django and trying to contribute to django itself.
-- 💞️ I’m looking for a frontend developer to collaborate for my blogging website (Discus.tech).
-- 📫 You can reach me via my email nishansagar045@gmail.com.
-- ⚡ Fun fact- Almost any device powered with electricity needs to be coded. Can you imagine?! 
+### Hi there! 👋 I'm Nishant Sagar - Software Engineer & AI Enthusiast
 
-# *My technology stack*
-```cpp
-int main() {
-  cout << "Intermediate in C++ "<< std::endl();
-}
-```
-```Python
-if __name__ == "__main__":
-  print("Familier with python and c")
-```
-```java
-    public static void main(String[] args) {
-        System.out.println("Knows Django");
-    }
-```
-# *My Github stats - going to get better soon*
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant-Sagar&theme=vue&show_icons=true)
+- 🚀 **Self-taught Python Developer** - passionate about building intelligent systems and contributing to open-source projects  
+- 🤖 **AI & Machine Learning Focus** - Developing solutions that bridge technology with real-world impact  
+- ☁️ **Cloud-Native Developer** - Experienced with Google Cloud Platform, Docker, and scalable architecture
 
-<!-- ## Connect with me on linkedin: -->
-<p align="left">
-<a href = "https://www.linkedin.com/in/nishant-sagar-8a4a2011a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+### What Drives Me
+- 🔥 **Continuous Learning** - Every new concept I master gives me that satisfying "aha!" moment that keeps me up at night (in the best way)
+- 🌍 **Open Source Advocate** - Contributing to projects I believe in and learning from the global developer community    
+- 🧠 **AI Vision** - Building the next generation of intelligent applications that solve meaningful problems   
+- 🐍 **Python Craftsman** - Writing clean, efficient code that scales and performs
+                            
+
+### Currently Building
+- ⚡ **Formula Genie** - Revolutionary AI-powered Oracle Fast Formula generator that converts plain English business rules into optimized HCM formulas, eliminating hours of manual coding for payroll and benefits calculations
+- 🎓 **ProCounsel** - AI-powered educational platform transforming how students navigate India's complex higher education landscape with smart recommendations and comprehensive college data  
+- 🤖 **Contributing to Agno** - Enhancing AI agent frameworks and multi-agent systems, fixing core infrastructure bugs and improving distributed agent communication
+
+### Open Source Contributions
+- 🚀 **Agno** - Contributing to AI agent frameworks and multi-agent systems, fixing core infrastructure bugs and enhancing distributed agent communication
+- 📊 **PostHog** - Contributing to the leading open-source product analytics platform, helping improve user experience and data insights capabilities
+
+### Try Our App - ProCounsel
+Experience the power of AI-driven educational counseling that's helping students across India make informed career decisions.
+
+🤖 **Android**: [Download on Google Play](https://play.google.com/store/apps/details?id=com.catalystai.ProCounsel&hl=en)  
+🍎 **iOS**: [Download on App Store](https://apps.apple.com/in/app/procounsel/id6752525886)
 
