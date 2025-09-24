@@ -2,7 +2,7 @@
 <!-- ![](https://cdn.quotesgram.com/img/60/29/809615381-punitionis8.jpg) -->
 ### Hi there! 👋 I'm Nishant Sagar - Software Engineer & AI Enthusiast
 
-- 🚀 **Self-taught Python Developer** - passionate about building intelligent systems and contributing to open-source projects  
+- 🚀 **Self-taught Python Developer** - Passionate about building intelligent systems and contributing to open-source projects  
 - 🤖 **AI & Machine Learning Focus** - Developing solutions that bridge technology with real-world impact  
 - ☁️ **Cloud-Native Developer** - Experienced with Google Cloud Platform, Docker, and scalable architecture
 
