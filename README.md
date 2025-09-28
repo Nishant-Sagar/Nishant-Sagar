@@ -22,6 +22,7 @@
 ### Open Source Contributions
 - 🚀 **Agno** - Contributing to AI agent frameworks and multi-agent systems, fixing core infrastructure bugs and enhancing distributed agent communication
 - 📊 **PostHog** - Contributing to the leading open-source product analytics platform, helping improve user experience and data insights capabilities
+- 🕵️‍♂️ **OSINT-Framework** – Contributing to the open-source intelligence collection framework, improving tool integrations and documentation for security researchers
 
 ### Try Our App - ProCounsel
 Experience the power of AI-driven educational counseling that's helping students across India make informed career decisions.
